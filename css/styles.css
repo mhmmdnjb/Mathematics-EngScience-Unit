@@ -607,8 +607,8 @@ progress {
 .img-fluid-2 {
   max-width: 100%;
   height: auto;
-  margin-right: 60%;
-  margin-left: 60%;
+  margin-right: 0%;
+  margin-left: 0%;
 }
 
 .img-thumbnail {
@@ -10999,8 +10999,8 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item {
   max-width: 26rem;
-  margin-left: 20;
-  margin-right: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
